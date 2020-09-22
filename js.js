@@ -14,8 +14,8 @@ function format(){
 
   setBg();
   document.getElementById("result").innerHTML = inputText
-    .replace(/\./g, " я пукнул ")
-    .replace(/;/g, " я сука ");
+    .replace(/\./g, " 1111 ")
+    .replace(/;/g, " 2222 ");
 }
 
 function setBg(){
